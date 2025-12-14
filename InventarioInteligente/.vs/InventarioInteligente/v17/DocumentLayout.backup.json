@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\views\\estadisticas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:views\\estadisticas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\controllers\\estadisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:controllers\\estadisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Migrations\\20251214031530_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251214031530_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\inventariointeligente.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:inventariointeligente.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|c:\\users\\isaac\\documents\\progra3\\lab03\\laboratorio03\\inventariointeligente\\inventariointeligente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B41B5802-CEBD-490B-883D-0F74510CA239}|InventarioInteligente.csproj|solutionrelative:inventariointeligente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251214031530_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Migrations\\20251214031530_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251214031530_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Migrations\\20251214031530_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251214031530_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T03:15:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T03:15:02.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventarioInteligente",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\InventarioInteligente.csproj",
+              "RelativeDocumentMoniker": "InventarioInteligente.csproj",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\InventarioInteligente.csproj",
+              "RelativeToolTip": "InventarioInteligente.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T03:12:44.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T03:04:41.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Estadisticas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estadisticas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Estadisticas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estadisticas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T02:36:04.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadisticasController.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Controllers\\EstadisticasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstadisticasController.cs",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Controllers\\EstadisticasController.cs*",
+              "RelativeToolTip": "Controllers\\EstadisticasController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:34:55.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T02:34:17.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:33:08.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:32:55.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventarioInteligente.csproj",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\InventarioInteligente.csproj",
+              "RelativeDocumentMoniker": "InventarioInteligente.csproj",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\InventarioInteligente.csproj",
+              "RelativeToolTip": "InventarioInteligente.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T02:31:38.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\Progra3\\Lab03\\Laboratorio03\\InventarioInteligente\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:31:15.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
